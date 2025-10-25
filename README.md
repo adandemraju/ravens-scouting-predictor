@@ -19,11 +19,14 @@ Key Capabilities:
 
 ## 🛠️ Tech Stack  
 
-- **Languages / Frameworks:**  
-  - 🐍 Python (3.11)  
-  - 📦 Pandas, NumPy  
-  - 🤖 scikit-learn, XGBoost (optional for advanced models)  
-  - 📊 Matplotlib, Seaborn (visualizations)  
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)  
+![Pandas](https://img.shields.io/badge/Data-Pandas-yellow?logo=pandas)  
+![NumPy](https://img.shields.io/badge/Math-NumPy-orange?logo=numpy)  
+![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-green?logo=scikitlearn)  
+![XGBoost](https://img.shields.io/badge/ML-XGBoost-lightgrey?logo=xgboost)  
+![Matplotlib](https://img.shields.io/badge/Plots-Matplotlib-red?logo=plotly)  
+![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-teal)  
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)  
 
 - **Data Sources:**  
   - NCAA / NFL Combine stats  
